@@ -1,0 +1,13 @@
+# IDE Configuration
+.vscode
+
+# Object Files
+*.o
+kernel.bin
+termOS.iso
+
+# Folders
+sysroot
+toolchain/cache
+toolchain/trash
+toolchain/i386
